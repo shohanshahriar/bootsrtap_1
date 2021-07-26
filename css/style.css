@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+.box{
+	min-height: 100px;
+	background-color: blue;
+	margin: 10px 0;
+}
+.box2{
+	min-height: 100px;
+	background-color: darkred;
+	margin: 10px 0;
+}
